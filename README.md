@@ -55,13 +55,6 @@ We performed **hyperparameter tuning** using `GridSearchCV` and evaluated models
   - Random Forest
   - XGBoost
 
-<p align="center">
-  <img src="assets/roc_curve.png" alt="ROC Curve" width="500"/>
-</p>
-
-<p align="center">
-  <img src="assets/feature_importance_xgb.png" alt="Feature Importance - XGBoost" width="500"/>
-</p>
 
 ---
 
